@@ -1,0 +1,7 @@
+{
+  "name": "labo_recette_cuisine",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
